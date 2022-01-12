@@ -1,0 +1,116 @@
+﻿<AppContextNode ApplicationType="Windows" FrameworkType="UIAPrime" Name="notepad" MappingFile="$SUITTESTS\notepad\notepad.suit" ParentMappingFile="" SUITSchemaVersion="1.0" AddIns="">
+  <ProjectInfo>
+    <ProjectConfig />
+    <ApplicationProcesses>
+      <Process Name="notepad++" Primary="True" />
+    </ApplicationProcesses>
+    <Properties>
+      <Property Name="Executable Path" TypeOfEntry="Manual" Value="C:\Program Files\Notepad++\notepad++.exe" />
+      <Property Name="Build Type" TypeOfEntry="Manual" Value="" />
+      <Property Name="Product Version" TypeOfEntry="Manual" Value="" />
+      <Property Name="Error Log File Path(s)" TypeOfEntry="Manual" Value="" />
+    </Properties>
+    <RecoveryScenarios>
+      <AppErrors />
+      <PopupDialogs />
+    </RecoveryScenarios>
+    <CleanUpInfo>
+      <CustomCleanUpSettings CleanUpCustomSetting="Replace Default SUITCleanUp" IsCleanUpEnabled="False">
+        <CodeSnippetNode>
+          <Line></Line>
+        </CodeSnippetNode>
+      </CustomCleanUpSettings>
+      <DefaultCleanUpSettings RunCleanUpIncaseOf="Failure" IsCleanTopParent="False" />
+    </CleanUpInfo>
+    <AdditionalSettings>
+      <Setting Name="ProcessSyncType" Value="ThreadSync" />
+      <Setting Name="EnableMinimizeHierarchy" Value="False" />
+    </AdditionalSettings>
+    <ExternalProjectUsageInfo>
+      <ExternalProjectInfo AssociatedMappingFile="$SUITTESTS\NotePadFileExplorer\Tests\NotePadFileExplorer.suit" UsedScriptOrSharedFilePath="$SUITTESTS\NotePadFileExplorer\Tests\New Test Suite\New Test Set\New Test Script1.xml" UsedControlName="File1" />
+    </ExternalProjectUsageInfo>
+    <ControlIdentificationRule />
+  </ProjectInfo>
+  <Nodes>
+    <CommandNode UserFriendlyName="New Command Node">
+      <Nodes>
+        <ControlNode UserFriendlyName="dot_vcxproj _hy_ Notepad_pl__pl_" FrameworkType="UIAPrime" ConsiderColumnHeaderValues="false" ImageFilePath="$SUITTESTS\notepad\Images\New Command Node\dot_vcxproj _hy_ Notepad_pl__pl_.png" ImageFileName="dot_vcxproj _hy_ Notepad_pl__pl_" ImageFileOverriden="true" ControlClass="System.Windows.Automation.AutomationElement+AutomationElementInformation" ControlType="Window" TestControlName="D:\SUIT\SUIT_INH\Resources\Client\Tools\WixSetup\CustomActions\SerialKeyValidator\SerialKeyValidator.vcxproj - Notepad++" TechnologyName="UIAutomation" FriendlyName="D:\SUIT\SUIT_INH\Resources\Client\Tools\WixSetup\CustomActions\SerialKeyValidator\SerialKeyValidator.vcxproj - Notepad++" ClassName="Notepad++" InputkeyName="DOT_VCXPROJ_HY_NOTEPAD_PL__PL_" ControlDescription="D:\SUIT\SUIT_INH\Resources\Client\Tools\WixSetup\CustomActions\SerialKeyValidator\SerialKeyValidator.vcxproj - Notepad++ Window" ControlPriority="Primary">
+          <Nodes>
+            <ControlNode UserFriendlyName="MenuBar" FrameworkType="UIAPrime" ConsiderColumnHeaderValues="false" ImageFilePath="$SUITTESTS\notepad\Images\New Command Node\MenuBar.png" ImageFileName="MenuBar" ImageFileOverriden="true" ControlClass="System.Windows.Automation.AutomationElement+AutomationElementInformation" IsAggregateControl="true" ControlType="MenuBar" TestControlName="Application" TechnologyName="UIAutomation" FriendlyName="MenuBar" ClassName="" InputkeyName="MENUBAR" IsPerformActionCodeGenerated="true" ControlDescription="MenuBar MenuBar" ControlPriority="Primary">
+              <Nodes>
+                <ControlNode UserFriendlyName="File1" FrameworkType="UIAPrime" ConsiderColumnHeaderValues="false" ImageFilePath="$SUITTESTS\notepad\Images\New Command Node\File1.png" ImageFileName="File1" ImageFileOverriden="true" ControlClass="System.Windows.Automation.AutomationElement+AutomationElementInformation" ControlType="MenuItem" TestControlName="File" TechnologyName="UIAutomation" FriendlyName="File" ClassName="" InputkeyName="FILE1" ControlDescription="File MenuItem" ControlPriority="Primary">
+                  <Nodes>
+                    <ControlNode UserFriendlyName="File" FrameworkType="UIAPrime" ConsiderColumnHeaderValues="false" ImageFilePath="$SUITTESTS\notepad\Images\New Command Node\File.png" ImageFileName="File" ImageFileOverriden="true" ControlClass="System.Windows.Automation.AutomationElement+AutomationElementInformation" IsAggregateControl="true" ControlType="Menu" TestControlName="File" TechnologyName="UIAutomation" FriendlyName="File" ClassName="#32768" InputkeyName="FILE" ControlDescription="File Menu" ControlPriority="Primary">
+                      <Nodes>
+                        <ControlNode UserFriendlyName="Open_dot__dot__dot_" FrameworkType="UIAPrime" ConsiderColumnHeaderValues="false" ImageFilePath="$SUITTESTS\notepad\Images\New Command Node\Open_dot__dot__dot_.png" ImageFileName="Open_dot__dot__dot_" ImageFileOverriden="true" ControlClass="System.Windows.Automation.AutomationElement+AutomationElementInformation" ControlType="MenuItem" TestControlName="Open..." TechnologyName="UIAutomation" FriendlyName="Open..." ClassName="" InputkeyName="OPEN_DOT__DOT__DOT_" IsPerformActionCodeGenerated="true" ControlDescription="Open... MenuItem" ControlPriority="Primary">
+                          <SearchProperties>
+                            <Property Name="AutomationId" Operator="EqualTo" Value="Item 41002" />
+                            <Property Name="Name" Operator="EqualTo" Value="Open..." />
+                            <Property Name="ControlType" Operator="EqualTo" Value="MenuItem" />
+                          </SearchProperties>
+                          <ProjectConfiguration />
+                        </ControlNode>
+                      </Nodes>
+                      <SearchProperties>
+                        <Property Name="Name" Operator="EqualTo" Value="File" />
+                        <Property Name="ControlType" Operator="EqualTo" Value="Menu" />
+                        <Property Name="ClassName" Operator="EqualTo" Value="#32768" />
+                      </SearchProperties>
+                      <ProjectConfiguration />
+                    </ControlNode>
+                  </Nodes>
+                  <SearchProperties>
+                    <Property Name="AutomationId" Operator="EqualTo" Value="Item 1" />
+                    <Property Name="Name" Operator="EqualTo" Value="File" />
+                    <Property Name="ControlType" Operator="EqualTo" Value="MenuItem" />
+                  </SearchProperties>
+                  <ProjectConfiguration />
+                </ControlNode>
+              </Nodes>
+              <SearchProperties>
+                <Property Name="AutomationId" Operator="EqualTo" Value="MenuBar" />
+                <Property Name="Name" Operator="EqualTo" Value="Application" />
+                <Property Name="ControlType" Operator="EqualTo" Value="MenuBar" />
+              </SearchProperties>
+              <ProjectConfiguration />
+            </ControlNode>
+          </Nodes>
+          <SearchProperties>
+            <Property Name="Name" Operator="EqualTo" Value="D:\SUIT\SUIT_INH\Resources\Client\Tools\WixSetup\CustomActions\SerialKeyValidator\SerialKeyValidator.vcxproj - Notepad++" />
+            <Property Name="ControlType" Operator="EqualTo" Value="Window" />
+            <Property Name="ClassName" Operator="EqualTo" Value="Notepad++" />
+          </SearchProperties>
+          <ProjectConfiguration />
+        </ControlNode>
+        <ControlNode UserFriendlyName="Open" FrameworkType="UIAPrime" ConsiderColumnHeaderValues="false" ImageFilePath="$SUITTESTS\notepad\Images\New Command Node\Open.png" ImageFileName="Open" ImageFileOverriden="true" ControlClass="System.Windows.Automation.AutomationElement+AutomationElementInformation" ControlType="Window" TestControlName="Open" TechnologyName="UIAutomation" FriendlyName="Open" ClassName="#32770" InputkeyName="OPEN" ControlDescription="Open Window" ControlPriority="Primary">
+          <Nodes>
+            <ControlNode UserFriendlyName="File name1" FrameworkType="UIAPrime" ConsiderColumnHeaderValues="false" ImageFilePath="$SUITTESTS\notepad\Images\New Command Node\File name1.png" ImageFileName="File name1" ImageFileOverriden="true" ControlClass="System.Windows.Automation.AutomationElement+AutomationElementInformation" IsAggregateControl="true" ControlType="ComboBox" TestControlName="File name:" TechnologyName="UIAutomation" FriendlyName="File name:" ClassName="ComboBox" InputkeyName="FILENAME1" ControlDescription="File name: ComboBox" ControlPriority="Primary">
+              <Nodes>
+                <ControlNode UserFriendlyName="File name" FrameworkType="UIAPrime" ConsiderColumnHeaderValues="false" ImageFilePath="$SUITTESTS\notepad\Images\New Command Node\File name.png" ImageFileName="File name" ImageFileOverriden="true" ControlClass="System.Windows.Automation.AutomationElement+AutomationElementInformation" ControlType="Edit" TestControlName="File name:" TechnologyName="UIAutomation" FriendlyName="File name:" ClassName="Edit" InputkeyName="FILENAME" IsPerformActionCodeGenerated="true" ControlDescription="File name: Edit" ControlPriority="Primary">
+                  <SearchProperties>
+                    <Property Name="Name" Operator="EqualTo" Value="File name:" />
+                    <Property Name="ControlType" Operator="EqualTo" Value="Edit" />
+                    <Property Name="ClassName" Operator="EqualTo" Value="Edit" />
+                  </SearchProperties>
+                  <ProjectConfiguration />
+                </ControlNode>
+              </Nodes>
+              <SearchProperties>
+                <Property Name="Name" Operator="EqualTo" Value="File name:" />
+                <Property Name="ControlType" Operator="EqualTo" Value="ComboBox" />
+                <Property Name="ClassName" Operator="EqualTo" Value="ComboBox" />
+              </SearchProperties>
+              <ProjectConfiguration />
+            </ControlNode>
+          </Nodes>
+          <SearchProperties>
+            <Property Name="Name" Operator="EqualTo" Value="Open" />
+            <Property Name="ControlType" Operator="EqualTo" Value="Window" />
+            <Property Name="ClassName" Operator="EqualTo" Value="#32770" />
+          </SearchProperties>
+          <ProjectConfiguration />
+        </ControlNode>
+      </Nodes>
+    </CommandNode>
+  </Nodes>
+</AppContextNode>

@@ -1,0 +1,49 @@
+﻿<TestScriptNode MappingFile="$SUITTESTS\notepad\Tests\New Test Suite1\New Test Set1\New Test Script1.xml" UserFriendlyName="New Test Script1" Description="New Test Script1" TestScriptName="New Test Script1">
+  <Nodes>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</Line>
+      </CodeLines>
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvfrfffffffffffffffffffffffffffffffffffffffffffffffffff;</Line>
+        <Line>hjngygyjhj             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb;</Line>
+        <Line />
+      </CodeLines>
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333</Line>
+      </CodeLines>
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</Line>
+      </CodeLines>
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+    </CodeSnippetNode>
+  </Nodes>
+  <ProjectConfiguration>
+    <NameSpaces>
+      <NameSpace Value="Hexagon.SmartUITest.UIAPrime.SUITControl;" />
+      <NameSpace Value="System.Windows.Automation;" />
+    </NameSpaces>
+    <References>
+      <Reference Path="%SUIT_HOME%Bin\Release\Hexagon.SmartUITest.UIAPrime.SUITControl.dll" />
+      <Reference Path="%programfiles(x86)%\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\UIAutomationClient.dll" />
+      <Reference Path="%programfiles(x86)%\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\UIAutomationTypes.dll" />
+    </References>
+  </ProjectConfiguration>
+  <TestPlayBackSettings ThinkTimeMultiplier="0" />
+  <CleanUpSettings />
+</TestScriptNode>

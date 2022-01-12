@@ -1,0 +1,1 @@
+cmd /c ""%SUIT_HOME%Bin\Release\HxGnTest.exe" "%SUITTESTS%notepad\Tests\notepad.sbt""

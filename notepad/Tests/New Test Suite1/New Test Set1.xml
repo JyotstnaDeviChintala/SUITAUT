@@ -1,0 +1,6 @@
+﻿<TestSetNode MappingFile="$SUITTESTS\notepad\Tests\New Test Suite1\New Test Set1.xml" UserFriendlyName="New Test Set1" SmartUITestFileVersion="20.00.00.0032" ApplicationName="notepad" ParentMappingFile="$SUITTESTS\notepad\Tests\New Test Suite1\New Test Suite1.suit" TestSuiteName="New Test Suite1" TestSuiteDescription="New Test Suite1" TestSetName="New Test Set1" TestSetDescription="New Test Set1">
+  <Nodes>
+    <TestScriptNode MappingFile="$SUITTESTS\notepad\Tests\New Test Suite1\New Test Set1\New Test Script.xml" />
+    <TestScriptNode MappingFile="$SUITTESTS\notepad\Tests\New Test Suite1\New Test Set1\New Test Script1.xml" />
+  </Nodes>
+</TestSetNode>

@@ -1,0 +1,23 @@
+﻿<TestScriptNode MappingFile="$SUITTESTS\notepad\Tests\New Test Suite1\New Test Set1\New Test Script.xml" UserFriendlyName="New Test Script" Description="New Test Script" TestScriptName="New Test Script">
+  <Nodes>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>hjkuhkikikikiolio ghjgykhyuj jk,jukhujk jmkhjukukiukiuiujiyhukiu8i  NoNullAllowedException                                                                                                          </Line>
+      </CodeLines>
+    </CodeSnippetNode>
+  </Nodes>
+  <ProjectConfiguration>
+    <NameSpaces>
+      <NameSpace Value="Hexagon.SmartUITest.UIAPrime.SUITControl;" />
+      <NameSpace Value="System.Windows.Automation;" />
+    </NameSpaces>
+    <References>
+      <Reference Path="%SUIT_HOME%Bin\Release\Hexagon.SmartUITest.UIAPrime.SUITControl.dll" />
+      <Reference Path="%programfiles(x86)%\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\UIAutomationClient.dll" />
+      <Reference Path="%programfiles(x86)%\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\UIAutomationTypes.dll" />
+    </References>
+  </ProjectConfiguration>
+  <TestPlayBackSettings ThinkTimeMultiplier="0" />
+  <CleanUpSettings />
+</TestScriptNode>

@@ -1,0 +1,240 @@
+﻿<TestScriptNode MappingFile="$SUITTESTS\notepad\Tests\New Test Suite\New Test Set\New Test Script.xml" UserFriendlyName="New Test Script" Description="New Test Script" TestScriptName="New Test Script">
+  <Nodes>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee;ddddddddddddddddddd</Line>
+        <Line>dddddddddddddd</Line>
+        <Line>ggggggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhh</Line>
+        <Line>hhhhhhhhhhhhhhhhhhhhhhhhhhhhh</Line>
+        <Line>ggggggggggggggggggggggggggggggd</Line>
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+      </CodeLines>
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>hgkyuk,jhbm                                                                                                                                                                                     </Line>
+        <Line />
+      </CodeLines>
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>xdddddddddddddddddddddddddddddddddd            </Line>
+        <Line>                                                                                                                                                                                             </Line>
+        <Line />
+        <Line>dddddddddddhhhhhhhhhh</Line>
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line>ddddddddddddddd</Line>
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+        <Line />
+      </CodeLines>
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+      <CodeLines>
+        <Line>fggtrffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff                    ffffff</Line>
+      </CodeLines>
+    </CodeSnippetNode>
+    <CodeSnippetNode UserFriendlyName="Code Snippet">
+      <PlaybackSettings />
+    </CodeSnippetNode>
+  </Nodes>
+  <TestVariables>
+    <Variable DataType="String" VariableName="TestVariable" DefaultValue="Hi" />
+  </TestVariables>
+  <ProjectConfiguration>
+    <NameSpaces>
+      <NameSpace Value="System.IO;hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh" />
+      <NameSpace Value="Newtonsoft.Json.Linq;" />
+      <NameSpace Value="Hexagon.SmartUITest.UIAPrime.SUITControl;" />
+      <NameSpace Value="System.Windows.Automation;" />
+    </NameSpaces>
+    <References>
+      <Reference Path="%SUIT_HOME%Bin\Release\Hexagon.SmartUITest.UIAPrime.SUITControl.dll" />
+      <Reference Path="%programfiles(x86)%\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\UIAutomationClient.dll" />
+      <Reference Path="%programfiles(x86)%\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\UIAutomationTypes.dll" />
+      <Reference Path="C:\Users\jdchinta\Downloads\Json130r1\Bin\net45\Newtonsoft.Json.dll" />
+    </References>
+  </ProjectConfiguration>
+  <TestPlayBackSettings ThinkTimeMultiplier="0" />
+  <CleanUpSettings />
+</TestScriptNode>
